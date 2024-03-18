@@ -1,8 +1,8 @@
 @charset "UTF-8";
 :root {
   --white: #fff1f3;
-  --gray: #948a8b;
-  --black: #191515;
+  --gray: #ffffff;
+  --black: #777777;
   --back-button: #403838;
   --back-editor: #2c2525;
   --back-list: #211c1c;
