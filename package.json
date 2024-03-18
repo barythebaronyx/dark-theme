@@ -2,7 +2,7 @@
     "name": "je0d Dark",
     "content_type": "SN|Theme",
     "area": "themes",
-    "main": "dark-theme.css",
+    "main": "dark.css",
     "showInGallery": true,
     "dock_icon": {
         "type": "circle",
